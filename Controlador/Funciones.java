@@ -115,7 +115,10 @@ public class Funciones {
     }
 
     public void estadoPacientes() {
-
+        atencionPaciente(p1);
+        atencionPaciente(p2);
+        atencionPaciente(p3);
+        atencionPaciente(p4);
     }
 
     public void atencionPaciente(Paciente c) {
